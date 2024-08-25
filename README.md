@@ -1,0 +1,5 @@
+Hastalar, sisteme e-posta ile kayıt olduktan sonra, bir anabilim dalı altında bulunan doktorlardan birini seçerek şikayetlerini doğrudan bu doktora mesaj yoluyla iletebilirler.
+Her doktor, uzmanlık alanlarını, mezuniyet bilgilerini ve çalıştığı hastane veya klinik bilgilerini profilinde tanımlayabilir. Hastalar, doktorları isim, uzmanlık veya anabilim dalına göre arayabilir ve mesaj gönderebilirler.
+Doktorlar gelen mesajları okuyup yanıtlayabilir ve hastalara gelen yanıtlar için bildirim alırlar. Benzer şekilde, doktorlar da hastalardan gelen mesajlar için bildirim alır. Mesajlar, doktorların mesaj kutusunda son gelenden ilk gelene doğru sıralanır. 
+Kullanıcılar, profillerine resim ekleyebilir ve bilgilerini güncelleyebilir. Hastalar, doktorların online olup olmadığını görebilir ve doktorlar hakkında yorum yapabilirler. Profil resmi eklenmemiş doktorlar ve hastalar için varsayılan cinsiyete göre ikonlar görüntülenir.
+İstenirlerini sağlayan uygulama Flutter, MySql ve Node.js teknolojileriyle geliştirilmiştir.
